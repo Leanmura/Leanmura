@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leanmura
+- 👋 Hi, I’m Leandro Murakoshi
 - 👀 I’m interested in Programming, Technology & Sports  
 - 🌱 I’m currently learning software programming at UTN
 - 📫 How to reach me murakoshi.lean@gmail.com
